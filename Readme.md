@@ -4,7 +4,7 @@ Leavolii is an AI chatbot that writes a leave letter for you instantly. It is bu
 
 ## Installation
 
-Install requirements using ``` pip install requirements ``` after cloning the repository.
+Install requirements using ``` pip install requirements.txt ``` after cloning the repository.
 
 ## Usage
 
